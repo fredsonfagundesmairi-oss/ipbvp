@@ -1,0 +1,225 @@
+{
+  "igreja": "Igreja Presbiteriana de Várzea do Poço",
+  "pastor": "Pr. Fredson Fagundes Cerqueira",
+  "programacao_anual": {
+    "02": {
+      "mes": "Fevereiro",
+      "tema": "Chamados ao Arrependimento e Comunhão",
+      "versiculo": "Buscai o SENHOR enquanto se pode achar, invocai-o enquanto está perto. (Is 55:6)",
+      "eventos": [
+        {"dia": "01", "desc": "Reunião do Conselho com SAF e UPH"},
+        {"dia": "07", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "13-17", "desc": "Retiro espiritual (Carnaval)"},
+        {"dia": "17", "desc": "Reunião do Conselho"},
+        {"dia": "22", "desc": "Santa Ceia no Templo"},
+        {"dia": "25", "desc": "Santa Ceia no lar"}
+      ]
+    },
+    "03": {
+      "mes": "Março",
+      "tema": "Sabedoria para viver os dias",
+      "versiculo": "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio. (Sl 90:12)",
+      "eventos": [
+        {"dia": "07", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "13-21", "desc": "Ausência pastoral (curso em São Paulo)"},
+        {"dia": "22", "desc": "Retorno pastoral e Santa Ceia"},
+        {"dia": "23", "desc": "Reunião de Liderança (Casa de Elique)"},
+        {"dia": "24", "desc": "Reunião do Conselho"},
+        {"dia": "25", "desc": "Santa Ceia no lar"},
+        {"dia": "27", "desc": "Culto evangelístico - Itapuã"}
+      ]
+    },
+    "04": {
+      "mes": "Abril",
+      "tema": "A cruz e a redenção em Cristo",
+      "versiculo": "Mas ele foi traspassado pelas nossas transgressões e moído pelas nossas iniqüidades... (Is 53:5)",
+      "eventos": [
+        {"dia": "04", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "05", "desc": "Café da ressureição e Culto da Páscoa com Santa Ceia"},
+        {"dia": "15", "desc": "Santa Ceia no lar"},
+        {"dia": "17", "desc": "Culto evangelístico – Casas Populares"},
+        {"dia": "21", "desc": "Reunião do Conselho"},
+        {"dia": "25", "desc": "Aniversário da UPH – Pastor convidado"}
+      ]
+    },
+    "05": {
+      "mes": "Maio",
+      "tema": "A igreja vivendo em comunhão",
+      "versiculo": "E perseveravam na doutrina dos apóstolos e na comunhão... (At 2:42)",
+      "eventos": [
+        {"dia": "01-20", "desc": "Férias pastorais"},
+        {"dia": "24", "desc": "EBD e almoço em família (Faz. Elique Rios)"},
+        {"dia": "24", "desc": "Santa Ceia – Pastor convidado"},
+        {"dia": "27", "desc": "Santa Ceia no lar"},
+        {"dia": "29", "desc": "Culto evangelístico – Nova Esperança"},
+        {"dia": "31", "desc": "Reunião do Conselho com SAF e UPH"}
+      ]
+    },
+    "06": {
+      "mes": "Junho",
+      "tema": "A família no centro do propósito de Deus",
+      "versiculo": "Eu e a minha casa serviremos ao SENHOR. (Js 24:15)",
+      "eventos": [
+        {"dia": "06", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "14", "desc": "Santa Ceia"},
+        {"dia": "15", "desc": "Reunião de Liderança (Casa de Adevaldo)"},
+        {"dia": "16", "desc": "Reunião do Conselho"},
+        {"dia": "17", "desc": "Santa Ceia no lar"},
+        {"dia": "20", "desc": "Jantar de Casais – Sítio de Bernadet"}
+      ]
+    },
+    "07": {
+      "mes": "Julho",
+      "tema": "Confiança no Senhor",
+      "versiculo": "O SENHOR é a minha luz e a minha salvação; de quem terei medo? (Sl 27:1)",
+      "eventos": [
+        {"dia": "04", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "12", "desc": "Santa Ceia"},
+        {"dia": "15", "desc": "Santa Ceia no lar"},
+        {"dia": "17", "desc": "Culto evangelístico"},
+        {"dia": "21", "desc": "Reunião do Conselho"}
+      ]
+    },
+    "08": {
+      "mes": "Agosto",
+      "tema": "Avivamento e compromisso com Deus",
+      "versiculo": "Aviva a tua obra, ó SENHOR, no decorrer dos anos... (Hc 3:2)",
+      "eventos": [
+        {"dia": "01-02", "desc": "Viagem - IPVP"},
+        {"dia": "08", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "09", "desc": "Santa Ceia"},
+        {"dia": "12", "desc": "Santa Ceia no lar"},
+        {"dia": "18", "desc": "Reunião do Conselho"},
+        {"dia": "28", "desc": "Culto evangelístico – Praça do cemitério"},
+        {"dia": "30", "desc": "Dia Missionário – Pastor convidado"}
+      ]
+    },
+    "09": {
+      "mes": "Setembro",
+      "tema": "Ele vem",
+      "versiculo": "E eis que venho sem demora... (Ap 22:12)",
+      "eventos": [
+        {"dia": "05", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "13", "desc": "Santa Ceia"},
+        {"dia": "14", "desc": "Reunião de Liderança (Casa Antonio Rios)"},
+        {"dia": "15", "desc": "Reunião do Conselho"},
+        {"dia": "16", "desc": "Santa Ceia no lar"},
+        {"dia": "25", "desc": "Culto evangelístico – Alto da Nação"},
+        {"dia": "DOM", "desc": "Dia da Bíblia"}
+      ]
+    },
+    "10": {
+      "mes": "Outubro",
+      "tema": "Reformando sempre",
+      "versiculo": "Porque pela graça sois salvos, mediante a fé... (Ef 2:8)",
+      "eventos": [
+        {"dia": "03", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "04", "desc": "Reunião do Conselho com SAF e UPH"},
+        {"dia": "11", "desc": "Santa Ceia"},
+        {"dia": "14", "desc": "Santa Ceia no lar"},
+        {"dia": "31", "desc": "DIA DO EVANGÉLICO – PRAÇA PRINCIPAL"},
+        {"dia": "--", "desc": "Aniversário da SAF"}
+      ]
+    },
+    "11": {
+      "mes": "Novembro",
+      "tema": "Gratidão e fidelidade ao Senhor",
+      "versiculo": "Até aqui nos ajudou o SENHOR. (1Sm 7:12)",
+      "eventos": [
+        {"dia": "07", "desc": "Pregação no ponto – Nova Esperança"},
+        {"dia": "12-13", "desc": "Cultos evangelísticos (Praças Nação/Preguiça)"},
+        {"dia": "14-15", "desc": "31 anos da IPVP – Santa Ceia"},
+        {"dia": "17", "desc": "Reunião do Conselho"},
+        {"dia": "18", "desc": "Santa Ceia no lar"},
+        {"dia": "21-30", "desc": "Ausência pastoral (curso em São Paulo)"}
+      ]
+    },
+    "12": {
+      "mes": "Dezembro",
+      "tema": "O Cristo encarnado e a esperança eterna",
+      "versiculo": "E o Verbo se fez carne e habitou entre nós... (Jo 1:14)",
+      "eventos": [
+        {"dia": "06", "desc": "Santa Ceia"},
+        {"dia": "07", "desc": "Reunião de Liderança (Casa pastoral)"},
+        {"dia": "09", "desc": "Santa Ceia no lar"},
+        {"dia": "11", "desc": "Culto evangelístico"},
+        {"dia": "15", "desc": "Reunião do Conselho"},
+        {"dia": "20", "desc": "Manhã - Assembleia Geral Ordinária"},
+        {"dia": "24-25", "desc": "Cultos de Natal"}
+      ]
+    }
+  },
+  "aniversariantes": [
+    {"nome": "Suelivânia Santos da Silva Sena", "data": "01/01"},
+    {"nome": "Ozileia da Silva Cunha Ferreira", "data": "07/01"},
+    {"nome": "Euflorsina da Cunha Oliveira", "data": "12/01"},
+    {"nome": "Bernadet", "data": "20/01"},
+    {"nome": "Sidelcina da Cunha Oliveira", "data": "25/01"},
+    {"nome": "Thayz Mota Cunha Franco", "data": "27/01"},
+    {"nome": "Evanuzia", "data": "02/02"},
+    {"nome": "Maria Betina Cunha Franco", "data": "07/02"},
+    {"nome": "Pr. Fredson Fagundes Cerqueira", "data": "10/02"},
+    {"nome": "Marilene Gonçalves da Silva", "data": "27/02"},
+    {"nome": "Nalva", "data": "03/03"},
+    {"nome": "Levi Rios Alves Fagundes", "data": "08/03"},
+    {"nome": "Lucineide Oliveira Nascimento", "data": "16/03"},
+    {"nome": "Jucielle", "data": "18/03"},
+    {"nome": "Vitor Manoel da Cunha Ferreira", "data": "21/03"},
+    {"nome": "Antônio Ferreira da Silva", "data": "21/03"},
+    {"nome": "Antonio", "data": "21/03"},
+    {"nome": "Patricia", "data": "23/03"},
+    {"nome": "Osmária Sousa Rios", "data": "26/03"},
+    {"nome": "Imarcélia", "data": "26/03"},
+    {"nome": "Leonildio Ferreira dos Santos", "data": "28/03"},
+    {"nome": "Irandir da Silva Rios", "data": "31/03"},
+    {"nome": "Élida Suzart", "data": "31/03"},
+    {"nome": "Pedro Leonel da Cunha Ferreira", "data": "07/04"},
+    {"nome": "Berenice Maria da Silva Lopes", "data": "13/04"},
+    {"nome": "Elique Rios Filho", "data": "25/04"},
+    {"nome": "Elisa Silva Sena", "data": "10/05"},
+    {"nome": "Meire da Silva Almeida Evangelista", "data": "25/05"},
+    {"nome": "Edelice", "data": "28/05"},
+    {"nome": "Milton Pereira Rios", "data": "05/06"},
+    {"nome": "Adevaldo Marques Rios", "data": "06/06"},
+    {"nome": "Joelma Cristina Rios Lima Pinho", "data": "13/06"},
+    {"nome": "Alzerita Santos de Souza", "data": "14/06"},
+    {"nome": "Anderson Hangel Souza Franco", "data": "17/06"},
+    {"nome": "Débora Rios Ribeiro", "data": "21/06"},
+    {"nome": "Maria Cecília Cunha Franco", "data": "01/07"},
+    {"nome": "Daniel Oliveira Santos", "data": "02/07"},
+    {"nome": "Diana Rios Alves Fagundes", "data": "04/07"},
+    {"nome": "Zack Samuel Barbosa Silva", "data": "08/12"},
+    {"nome": "Ridair Cunha", "data": "19/07"},
+    {"nome": "Ticiana", "data": "20/07"},
+    {"nome": "Elizânia Gonçalves da Silva Rios", "data": "27/07"},
+    {"nome": "Uriel da Silva Cunha", "data": "04/08"},
+    {"nome": "Izabel Rios Oliveira", "data": "20/08"},
+    {"nome": "Jucirene Lopes da Silva Cunha", "data": "01/09"},
+    {"nome": "Luana Lima Mendes Oliveira", "data": "02/09"},
+    {"nome": "Jucineide Rios Oliveira", "data": "12/09"},
+    {"nome": "Otoniel da Silva Cunha", "data": "12/09"},
+    {"nome": "Antonio Rios", "data": "13/09"},
+    {"nome": "Carlito Oliveira Cunha", "data": "17/09"},
+    {"nome": "Fabiana de Carvalho Barbosa", "data": "24/09"},
+    {"nome": "Yasmim Barbosa Silva", "data": "24/09"},
+    {"nome": "Adonel Oliveira", "data": "25/09"},
+    {"nome": "Roberio Araújo Evangelista", "data": "25/09"},
+    {"nome": "Jonatas Rios Guilherme", "data": "30/09"},
+    {"nome": "Yasmim Barbosa Silva", "data": "18/10"},
+    {"nome": "Zailde Rios Santos", "data": "25/10"},
+    {"nome": "João Rodrigues de Souza (Nequinha)", "data": "26/10"},
+    {"nome": "Maria Luzinete Barbosa Cerqueira", "data": "29/10"},
+    {"nome": "Oseas da Silva Cunha", "data": "01/11"},
+    {"nome": "Izabela Mota de Souza Cunha", "data": "05/11"},
+    {"nome": "Joseane da Silva Souza", "data": "09/11"},
+    {"nome": "Paulo Sérgio Vieira dos Santos", "data": "09/11"},
+    {"nome": "José dos Santos Oliveira", "data": "12/11"},
+    {"nome": "Arnóbio Lopes da Silva", "data": "02/12"},
+    {"nome": "Adeílda Gomes de Oliveira", "data": "08/12"},
+    {"nome": "Heloísa Barbosa Silva", "data": "08/12"},
+    {"nome": "Antônio Jacinto Filho", "data": "13/12"},
+    {"nome": "Ozuel da Silva Cunha", "data": "14/12"},
+    {"nome": "Zenilda Maria da Silva Cunha", "data": "17/12"},
+    {"nome": "Matheus Almeida Evangelista", "data": "31/12"}
+  ]
+}
